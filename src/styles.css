@@ -34,18 +34,18 @@ nav {
   gap: 2rem;
 }
 
-.nav-items {
+.nav-itmes {
   display: flex;
   list-style: none;
   gap: 1.5rem;
 }
 
-.nav-items a {
+.nav-itmes a {
   text-decoration: none;
   color: hsl(240, 6%, 20%);
 }
 
-.nav-items a:hover {
+.nav-itmes a:hover {
   color: hsl(5, 85%, 63%);
 }
 
@@ -175,7 +175,7 @@ footer a:hover {
     font-size: 2rem;
   }
 
-  .nav-items {
+  .nav-itmes {
     flex-direction: column;
     gap: 1.5rem;
     margin-top: 2rem;
